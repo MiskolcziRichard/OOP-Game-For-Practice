@@ -1,0 +1,11 @@
+/home/miskolczir/Documents/Code/Console/C#/Public Practice Game/bin/Debug/netcoreapp2.2/Public Practice Game.deps.json
+/home/miskolczir/Documents/Code/Console/C#/Public Practice Game/bin/Debug/netcoreapp2.2/Public Practice Game.runtimeconfig.json
+/home/miskolczir/Documents/Code/Console/C#/Public Practice Game/bin/Debug/netcoreapp2.2/Public Practice Game.runtimeconfig.dev.json
+/home/miskolczir/Documents/Code/Console/C#/Public Practice Game/bin/Debug/netcoreapp2.2/Public Practice Game.dll
+/home/miskolczir/Documents/Code/Console/C#/Public Practice Game/bin/Debug/netcoreapp2.2/Public Practice Game.pdb
+/home/miskolczir/Documents/Code/Console/C#/Public Practice Game/obj/Debug/netcoreapp2.2/Public Practice Game.csprojAssemblyReference.cache
+/home/miskolczir/Documents/Code/Console/C#/Public Practice Game/obj/Debug/netcoreapp2.2/Public Practice Game.csproj.CoreCompileInputs.cache
+/home/miskolczir/Documents/Code/Console/C#/Public Practice Game/obj/Debug/netcoreapp2.2/Public Practice Game.AssemblyInfoInputs.cache
+/home/miskolczir/Documents/Code/Console/C#/Public Practice Game/obj/Debug/netcoreapp2.2/Public Practice Game.AssemblyInfo.cs
+/home/miskolczir/Documents/Code/Console/C#/Public Practice Game/obj/Debug/netcoreapp2.2/Public Practice Game.dll
+/home/miskolczir/Documents/Code/Console/C#/Public Practice Game/obj/Debug/netcoreapp2.2/Public Practice Game.pdb
